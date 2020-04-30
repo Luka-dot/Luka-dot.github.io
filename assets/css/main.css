@@ -33,6 +33,14 @@ ol, ul {
 	list-style: none;
 }
 
+.counter {
+	display: none;
+}
+
+#error_ {
+	display: none;
+}
+
 blockquote, q {
 	quotes: none;
 }
